@@ -42,15 +42,28 @@ UGUI与之前GUI的区别
 
 ### 1.Canvas（画布）
 
-什么是画布
+#### 什么是画布
 
 - 摆放容纳所有UI元素的区域，所有的UI元素都需要在画布上组装。
 - 脱离画布，UI组件就不能使用
 - 举例：电脑显示器，教室的屏幕，即所见物体的载体
 
-创建画布——两种方式
+#### 创建画布——两种方式
 - 通过菜单直接创建
 - 首次创建一个UI控件时，会同时自动创建一个容纳该控件的画布
+
+#### 画布的相关组件介绍
+
+![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200302155959.png)
+
+Render Mode（渲染模式）
+
+- Screen Space – Overlay: 2DUI，始终显示在屏幕最前方
+- Screen Space – Camera: 2D及3DUI，绑定到制定摄像机，可进行3D旋转（3D效果）
+- World Space: UI在3D空间，与摄像机分离
+
+
+
 
 
 

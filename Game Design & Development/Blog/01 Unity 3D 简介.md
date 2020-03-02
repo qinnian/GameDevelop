@@ -1,4 +1,4 @@
-## 【游戏开发】Unity 前言
+## 【游戏开发】u3d 前言
 
 ## Unity简介
 
@@ -17,11 +17,21 @@
 
 开发速度快
 
-![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200301105049.png)
+- 支持三种脚本语言，提高游戏逻辑设计，提高效率
+- 支持美术文件格式，以"所见即所得"的方式修改并导入美术资源到 Unity 场景中。
+- 可利用的资源丰富
+- 开发者社区广泛
+- 技术支持及时到位
 
 功能齐全并强大
 
-![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200301105135.png)
+- 全面整合的2D/3D引擎
+- 图形渲染方面（DX11,阴影效果，Beast）
+- 物理
+- 动画
+- 寻路
+- 遮挡剔除
+- 方便直观的调试功能
 
 绚丽的3D渲染效果
 
@@ -39,6 +49,8 @@
 菜单栏
 
 ![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200301130033.png)
+
+
 
 
 
